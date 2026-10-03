@@ -1,2 +1,19 @@
-# Notes
-A documentation of what I have learned, and am learning. 
+Cheatsheet:
+
+
+OSI model:
+layer 1, physical - Cables, fiber, and signal itself
+
+layer 2, data link - frame, mac address, extended unique identifier (EUI-48, EUI64), switch
+
+layer 3, network - IP address, router, packet
+
+layer 4, transport - TCP segment, UDP datagram
+
+layer 5, session - control protocols, tunneling protocols
+
+layer 6, presentation - application encryption/decryption (SSL, TLS)
+
+layer 7, application - your eyes
+
+
