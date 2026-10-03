@@ -1,7 +1,7 @@
 Cheatsheet:
 
-
-OSI model:
+ 
+OSI model: (Used wireshark to further understand the OSI model.)
 layer 1, physical - Cables, fiber, and signal itself
 
 layer 2, data link - frame, mac address, extended unique identifier (EUI-48, EUI64), switch
