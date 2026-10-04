@@ -17,3 +17,14 @@ layer 6, presentation - application encryption/decryption (SSL, TLS)
 layer 7, application - your eyes
 
 
+#######
+
+
+Wireshark, used to capture and inspect network traffic
+
+
+#######
+
+
+Cyberchef, used to encrypt/decrypt data
+
