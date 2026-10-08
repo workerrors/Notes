@@ -28,3 +28,8 @@ Wireshark, used to capture and inspect network traffic
 
 Cyberchef, used to encrypt/decrypt data
 
+
+#######
+
+
+Nmap, used to scan ports and discover network services/devices
