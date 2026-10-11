@@ -16,20 +16,22 @@ layer 6, presentation - application encryption/decryption (SSL, TLS)
 
 layer 7, application - your eyes
 
-
-#######
-
+---
+---
+---
 
 Wireshark, used to capture and inspect network traffic
 
-
-#######
-
+---
+---
+---
 
 Cyberchef, used to encrypt/decrypt data
 
 
-#######
+---
+---
+---
 
 
 Nmap, used to scan ports and discover network services/devices
@@ -69,7 +71,7 @@ Options:
 
 -sn: host discovery only
 
-
+---
 
 Port scan types,example commands:
 
@@ -80,7 +82,6 @@ TCP SYN Scan -	sudo nmap -sS MACHINE_IP
 
 
 UDP Scan -	sudo nmap -sU MACHINE_IP
-
 
 
 Options:
